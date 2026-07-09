@@ -1,4 +1,4 @@
-## AlphCode JAva INternship
+## AlphCode JAva Internship
 
 ## Student Grade Tracker
 
@@ -232,7 +232,7 @@ Balance: $9097.5
 7. Exit
 Enter choice: 7
 Exiting system...
-
+## Project 3 (ChatBot)
 
 
 
